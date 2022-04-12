@@ -1,11 +1,13 @@
 import React from 'react';
-import thor from '../../assets/Thor.png';
+import nandi from '../../assets/nandi.png';
 import './possibility.css';
+import Video from '../../assets/testvvv.mp4';
 
 const Possibility = () => (
   <div className="gpt3__possibility section__padding" id="possibility">
-    <div className="gpt3__possibility-image">
-      <img src={thor} alt="possibility" />
+    <div className="gpt3__possibility-image videoOut">
+    <img   className='imageIn' src={nandi} />
+    <video className='videoIn' src={Video} muted loop autoPlay="true" />
     </div>
     <div className="gpt3__possibility-content">
       <h4>Request Early Access to Get Started</h4>
