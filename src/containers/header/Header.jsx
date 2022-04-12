@@ -24,7 +24,7 @@ const Header = () => (
 
     <div className="gpt3__header-image  videoOut">
     <img   className='imageIn' src={thor} />
-    <video className='videoIn' src={Video} muted autoPlay="true" />
+    <video className='videoIn' src={Video} muted loop autoPlay="true" />
     </div>
   </div>
 );
