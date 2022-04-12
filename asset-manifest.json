@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Rudraksh/static/css/main.830d1321.chunk.css",
-    "main.js": "/Rudraksh/static/js/main.5016b2be.chunk.js",
-    "main.js.map": "/Rudraksh/static/js/main.5016b2be.chunk.js.map",
+    "main.css": "/Rudraksh/static/css/main.1d51a3b8.chunk.css",
+    "main.js": "/Rudraksh/static/js/main.3b5f1791.chunk.js",
+    "main.js.map": "/Rudraksh/static/js/main.3b5f1791.chunk.js.map",
     "runtime-main.js": "/Rudraksh/static/js/runtime-main.78745c91.js",
     "runtime-main.js.map": "/Rudraksh/static/js/runtime-main.78745c91.js.map",
     "static/js/2.2e19e702.chunk.js": "/Rudraksh/static/js/2.2e19e702.chunk.js",
     "static/js/2.2e19e702.chunk.js.map": "/Rudraksh/static/js/2.2e19e702.chunk.js.map",
     "index.html": "/Rudraksh/index.html",
-    "static/css/main.830d1321.chunk.css.map": "/Rudraksh/static/css/main.830d1321.chunk.css.map",
+    "static/css/main.1d51a3b8.chunk.css.map": "/Rudraksh/static/css/main.1d51a3b8.chunk.css.map",
     "static/js/2.2e19e702.chunk.js.LICENSE.txt": "/Rudraksh/static/js/2.2e19e702.chunk.js.LICENSE.txt",
     "static/media/Thor.fec0a309.png": "/Rudraksh/static/media/Thor.fec0a309.png",
     "static/media/blog01.cefc0932.png": "/Rudraksh/static/media/blog01.cefc0932.png",
@@ -23,7 +23,7 @@
   "entrypoints": [
     "static/js/runtime-main.78745c91.js",
     "static/js/2.2e19e702.chunk.js",
-    "static/css/main.830d1321.chunk.css",
-    "static/js/main.5016b2be.chunk.js"
+    "static/css/main.1d51a3b8.chunk.css",
+    "static/js/main.3b5f1791.chunk.js"
   ]
 }
