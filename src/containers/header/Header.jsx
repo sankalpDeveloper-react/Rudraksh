@@ -1,7 +1,8 @@
 import React from 'react';
 import people from '../../assets/people.png';
-import ai from '../../assets/ai.png';
+import thor from '../../assets/Thor.png';
 import './header.css';
+import Video from '../../assets/testv.mp4';
 
 const Header = () => (
   <div className="gpt3__header section__padding" id="home">
@@ -15,13 +16,15 @@ const Header = () => (
       </div>
 
       <div className="gpt3__header-content__people">
-        <img src={people} />
+
+        <img  src={people} />
         <p>1,600 people requested access a visit in last 24 hours</p>
       </div>
     </div>
 
-    <div className="gpt3__header-image">
-      <img src={ai} />
+    <div className="gpt3__header-image  videoOut">
+    <img   className='imageIn' src={thor} />
+    <video className='videoIn' src={Video} muted autoPlay="true" />
     </div>
   </div>
 );
