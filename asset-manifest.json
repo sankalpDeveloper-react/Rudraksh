@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Rudraksh/static/css/main.4ca17a59.chunk.css",
-    "main.js": "/Rudraksh/static/js/main.16c83c8f.chunk.js",
-    "main.js.map": "/Rudraksh/static/js/main.16c83c8f.chunk.js.map",
+    "main.css": "/Rudraksh/static/css/main.da885fd2.chunk.css",
+    "main.js": "/Rudraksh/static/js/main.482d0dec.chunk.js",
+    "main.js.map": "/Rudraksh/static/js/main.482d0dec.chunk.js.map",
     "runtime-main.js": "/Rudraksh/static/js/runtime-main.78745c91.js",
     "runtime-main.js.map": "/Rudraksh/static/js/runtime-main.78745c91.js.map",
     "static/js/2.2e19e702.chunk.js": "/Rudraksh/static/js/2.2e19e702.chunk.js",
     "static/js/2.2e19e702.chunk.js.map": "/Rudraksh/static/js/2.2e19e702.chunk.js.map",
     "index.html": "/Rudraksh/index.html",
-    "static/css/main.4ca17a59.chunk.css.map": "/Rudraksh/static/css/main.4ca17a59.chunk.css.map",
+    "static/css/main.da885fd2.chunk.css.map": "/Rudraksh/static/css/main.da885fd2.chunk.css.map",
     "static/js/2.2e19e702.chunk.js.LICENSE.txt": "/Rudraksh/static/js/2.2e19e702.chunk.js.LICENSE.txt",
-    "static/media/Thor.fec0a309.png": "/Rudraksh/static/media/Thor.fec0a309.png",
-    "static/media/blog01.cefc0932.png": "/Rudraksh/static/media/blog01.cefc0932.png",
-    "static/media/blog02.ab0eb367.png": "/Rudraksh/static/media/blog02.ab0eb367.png",
-    "static/media/blog03.d9223238.png": "/Rudraksh/static/media/blog03.d9223238.png",
-    "static/media/blog04.742c1357.png": "/Rudraksh/static/media/blog04.742c1357.png",
-    "static/media/blog05.bfaa1c1e.png": "/Rudraksh/static/media/blog05.bfaa1c1e.png",
-    "static/media/logo.16efaf42.svg": "/Rudraksh/static/media/logo.16efaf42.svg",
-    "static/media/nandi.030c55cc.png": "/Rudraksh/static/media/nandi.030c55cc.png",
+    "static/media/Blog01.91a61b96.jfif": "/Rudraksh/static/media/Blog01.91a61b96.jfif",
+    "static/media/Blog02.c143f911.jfif": "/Rudraksh/static/media/Blog02.c143f911.jfif",
+    "static/media/Blog03.47945398.jfif": "/Rudraksh/static/media/Blog03.47945398.jfif",
+    "static/media/Blog04.36ffaf8d.jfif": "/Rudraksh/static/media/Blog04.36ffaf8d.jfif",
+    "static/media/Blog05.34252001.jfif": "/Rudraksh/static/media/Blog05.34252001.jfif",
+    "static/media/back.01a20173.jpeg": "/Rudraksh/static/media/back.01a20173.jpeg",
+    "static/media/front.e8eac280.jpeg": "/Rudraksh/static/media/front.e8eac280.jpeg",
+    "static/media/logo.ed02646e.svg": "/Rudraksh/static/media/logo.ed02646e.svg",
     "static/media/people.5cd2d6fb.png": "/Rudraksh/static/media/people.5cd2d6fb.png",
     "static/media/testv.24c61c92.mp4": "/Rudraksh/static/media/testv.24c61c92.mp4",
     "static/media/testvvv.8b473a6d.mp4": "/Rudraksh/static/media/testvvv.8b473a6d.mp4"
@@ -25,7 +25,7 @@
   "entrypoints": [
     "static/js/runtime-main.78745c91.js",
     "static/js/2.2e19e702.chunk.js",
-    "static/css/main.4ca17a59.chunk.css",
-    "static/js/main.16c83c8f.chunk.js"
+    "static/css/main.da885fd2.chunk.css",
+    "static/js/main.482d0dec.chunk.js"
   ]
 }
