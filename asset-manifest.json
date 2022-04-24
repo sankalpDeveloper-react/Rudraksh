@@ -1,31 +1,32 @@
 {
   "files": {
-    "main.css": "/Rudraksh/static/css/main.43e8f130.chunk.css",
-    "main.js": "/Rudraksh/static/js/main.482d0dec.chunk.js",
-    "main.js.map": "/Rudraksh/static/js/main.482d0dec.chunk.js.map",
+    "main.css": "/Rudraksh/static/css/main.02ef47fc.chunk.css",
+    "main.js": "/Rudraksh/static/js/main.fed9785a.chunk.js",
+    "main.js.map": "/Rudraksh/static/js/main.fed9785a.chunk.js.map",
     "runtime-main.js": "/Rudraksh/static/js/runtime-main.78745c91.js",
     "runtime-main.js.map": "/Rudraksh/static/js/runtime-main.78745c91.js.map",
     "static/js/2.2e19e702.chunk.js": "/Rudraksh/static/js/2.2e19e702.chunk.js",
     "static/js/2.2e19e702.chunk.js.map": "/Rudraksh/static/js/2.2e19e702.chunk.js.map",
     "index.html": "/Rudraksh/index.html",
-    "static/css/main.43e8f130.chunk.css.map": "/Rudraksh/static/css/main.43e8f130.chunk.css.map",
+    "static/css/main.02ef47fc.chunk.css.map": "/Rudraksh/static/css/main.02ef47fc.chunk.css.map",
     "static/js/2.2e19e702.chunk.js.LICENSE.txt": "/Rudraksh/static/js/2.2e19e702.chunk.js.LICENSE.txt",
     "static/media/Blog01.91a61b96.jfif": "/Rudraksh/static/media/Blog01.91a61b96.jfif",
     "static/media/Blog02.c143f911.jfif": "/Rudraksh/static/media/Blog02.c143f911.jfif",
     "static/media/Blog03.47945398.jfif": "/Rudraksh/static/media/Blog03.47945398.jfif",
-    "static/media/Blog04.36ffaf8d.jfif": "/Rudraksh/static/media/Blog04.36ffaf8d.jfif",
-    "static/media/Blog05.34252001.jfif": "/Rudraksh/static/media/Blog05.34252001.jfif",
     "static/media/back.01a20173.jpeg": "/Rudraksh/static/media/back.01a20173.jpeg",
     "static/media/front.e8eac280.jpeg": "/Rudraksh/static/media/front.e8eac280.jpeg",
     "static/media/logo.ed02646e.svg": "/Rudraksh/static/media/logo.ed02646e.svg",
     "static/media/people.5cd2d6fb.png": "/Rudraksh/static/media/people.5cd2d6fb.png",
+    "static/media/test1.babdac47.jpg": "/Rudraksh/static/media/test1.babdac47.jpg",
+    "static/media/test2.f9605b5d.jpg": "/Rudraksh/static/media/test2.f9605b5d.jpg",
+    "static/media/test3.b5d4009d.jpg": "/Rudraksh/static/media/test3.b5d4009d.jpg",
     "static/media/testv.24c61c92.mp4": "/Rudraksh/static/media/testv.24c61c92.mp4",
     "static/media/testvvv.8b473a6d.mp4": "/Rudraksh/static/media/testvvv.8b473a6d.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.78745c91.js",
     "static/js/2.2e19e702.chunk.js",
-    "static/css/main.43e8f130.chunk.css",
-    "static/js/main.482d0dec.chunk.js"
+    "static/css/main.02ef47fc.chunk.css",
+    "static/js/main.fed9785a.chunk.js"
   ]
 }
